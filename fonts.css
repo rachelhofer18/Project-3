@@ -1,0 +1,28 @@
+@font-face  .p1 {
+  font-family: 'Paint the Sky Regular';
+    src:
+        url('../Fonts/Paint-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face  .p2{
+  font-family: 'Moinho Regular';
+    src:
+        url('../Fonts/Moinho-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face  .p3{
+  font-family: 'IBM Plex Sans';
+    src:
+        url('../Fonts/Plex-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face  .p3{
+  font-family: 'AmericanTypewriter';
+    src:
+        url('../Fonts/AmericanTypewriter.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
